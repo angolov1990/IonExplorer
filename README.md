@@ -4,11 +4,11 @@ IonExplorer is a program for searching for ion migration pathways and evaluation
 # Using IonExplorer
 The input file for the program requires information about crystal structure written in the Crystallographic Information File format (CIF) https://www.iucr.org/resources/cif. The command to run the program is:
 ```
-python IonExplorer –i input.cif
+python IonExplorer.py –i input.cif
 ```
 To see a full list of available options:
 ```
-python IonExplorer –h
+python IonExplorer.py –h
 ```
 
 To run the program one needs to have installed:
